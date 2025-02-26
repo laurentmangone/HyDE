@@ -64,6 +64,7 @@ qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
 zen-browser-bin                                        # browser
+kitty                                                  # terminal
 tabby                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
