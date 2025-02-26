@@ -15,6 +15,7 @@ bluez-utils                                            # bluetooth utility cli
 blueman                                                # bluetooth manager gui
 brightnessctl                                          # screen brightness control
 udiskie                                                # manage removable media
+gvfs-smb                                               # enable samba share access in file browser
 
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
@@ -62,14 +63,15 @@ qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
-firefox                                                # browser
-kitty                                                  # terminal
+zen-browser-bin                                        # browser
+tabby                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 unzip                                                  # extracting zip files
-vim                                                    # terminal text editor
-code                                                   # ide text editor
+nano                                                   # terminal text editor
+zed                                                   # ide text editor
 nwg-displays                                           # monitor management utility
+nwg-dock-hyprland                                      # application dock
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
