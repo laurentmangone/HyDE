@@ -74,6 +74,7 @@ zed                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 nwg-dock-hyprland                                      # application dock
 btop						       # btop
+neofetch					       # neofetch
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
 # oh-my-zsh-git|zsh                                    #  plugin manager for zsh (Optional) // Moved to pkg_extra.lst
