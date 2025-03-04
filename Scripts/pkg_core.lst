@@ -73,8 +73,6 @@ nano                                                   # terminal text editor
 zed                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 nwg-dock-hyprland                                      # application dock
-btop						       # btop
-neofetch					       # neofetch
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
 # oh-my-zsh-git|zsh                                    #  plugin manager for zsh (Optional) // Moved to pkg_extra.lst
@@ -83,7 +81,7 @@ pokego-bin|zsh                                        # display pokemon sprites 
 eza|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
 fastfetch                                              # system information fetch tool
-
+btop						                                       # btop
 # --------------------------------------------------- // HyDE
 # hyde-cli-git                                           # cli tool to manage hyde \\ Deprecated for HyDE
 hypridle                                               # idle daemon
