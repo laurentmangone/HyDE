@@ -73,6 +73,8 @@ nano                                                   # terminal text editor
 zed                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 nwg-dock-hyprland                                      # application dock
+thunderbird                                            # email client
+rpi-imager-bin                                         # tool for flashing usb key
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
 # oh-my-zsh-git|zsh                                    #  plugin manager for zsh (Optional) // Moved to pkg_extra.lst
