@@ -84,6 +84,8 @@ eza|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
 fastfetch                                              # system information fetch tool
 btop						                                       # btop
+git                                                    # git tool
+less                                                   # less for git diff
 # --------------------------------------------------- // HyDE
 # hyde-cli-git                                           # cli tool to manage hyde \\ Deprecated for HyDE
 hypridle                                               # idle daemon
